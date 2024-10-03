@@ -1,0 +1,5 @@
+1) Install dependencies:
+pip install pandas
+
+2) Run the script:
+python src/main.py
